@@ -41,16 +41,8 @@ Ideas that can boost fitness activities and assist in keeping fit
             margin: 10px 0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+    
+  </style>
 </head>
 <body>
     <header>
@@ -84,8 +76,6 @@ Ideas that can boost fitness activities and assist in keeping fit
         </section>
     </main>
 
-  <footer>
-      <p>&copy; 2024 Fitness Ideas</p>
-    </footer>
+
 </body>
 </html>
